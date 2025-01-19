@@ -35,8 +35,8 @@ Follow these steps to set up Polaris on your server:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/polaris-bot.git
-cd polaris-bot
+git clone https://github.com/SKLemon/Polaris.git
+cd Polaris
 ```
 ### 2️⃣ Install Dependencies
 ```bash
@@ -86,11 +86,12 @@ polaris-bot/
 ├── .env                    # Environment variables
 └── README.md               # Project documentation
 ```
+
 ## 🛡️ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🙌 Contributing
-Contributions are welcome! 
+Contributions are welcome!
 Feel free to fork this repository, submit pull requests, or open issues for suggestions and improvements.
 
 ## 📞 Support
@@ -98,5 +99,5 @@ Have questions or need help? Reach out:
 
 - Email: sklemon093@gmail.com
 - Discord: SnowyPoutine#4955
-- 
+
 Enjoy using Polaris! 🚀
